@@ -1,6 +1,3 @@
-Este repositorio se usará para Entornos de Desarrollo
-
-
 <table>
   <tr>
     <td>NOMBRE</td>
